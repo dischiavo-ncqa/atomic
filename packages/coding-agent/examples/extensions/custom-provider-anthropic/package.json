@@ -9,7 +9,7 @@
     "check": "echo 'nothing to check'"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.52.0"
+    "@anthropic-ai/sdk": "^0.120.0"
   },
   "atomic": {
     "extensions": [
